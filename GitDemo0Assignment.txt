@@ -1,0 +1,2 @@
+Hello,
+In order to complete the Git Demo 0 Assignment, I have created this file and updated as my first commit to the repo.
